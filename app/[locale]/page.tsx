@@ -37,7 +37,7 @@ export default function Home() {
                         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
                             {t('home.cta.title')}
                         </h2>
-                        <p className="mx-auto max-w-[700px] text-balance text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                        <p className="mx-auto max-w-[700px] text-balance text-gray-600 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                             {t('home.cta.subtitle')}
                         </p>
                         <Button asChild>
