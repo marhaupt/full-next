@@ -1,5 +1,21 @@
 {
-    "HomePage": {
-        "title": "Hello world!"
+    "home": {
+        "hero": {
+            "title": "Welcome to NextMovies",
+            "subtitle": "Discover, Watch, and Love Movies",
+            "cta": "Explore Movies"
+        },
+        "cta": {
+            "title": "Join Our Movie Community",
+            "subtitle": "Get personalized recommendations, create watchlists, and connect with fellow movie enthusiasts.",
+            "button": "Sign Up Now"
+        }
+    },
+    "header": {
+        "title": "NextMovies",
+        "login": "Login"
+    },
+    "footer": {
+        "about": "NextMovies. All rights reserved"
     }
 }

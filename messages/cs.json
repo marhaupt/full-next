@@ -1,0 +1,21 @@
+{
+    "home": {
+        "hero": {
+            "title": "Vítejte na NextMovies",
+            "subtitle": "Objevujte, sledujte a milujte filmy",
+            "cta": "Objevte filmy"
+        },
+        "cta": {
+            "title": "Připojte se k naší filmové komunitě",
+            "subtitle": "Získejte personalizovaná doporučení, vytvářejte seznamy k sledování a spojujte se s ostatními filmovými nadšenci.",
+            "button": "Zaregistrujte se nyní"
+        }
+    },
+    "header": {
+        "title": "NextMovies",
+        "login": "Přihlásit se"
+    },
+    "footer": {
+        "about": "NextMovies. Všechna práva vyhrazena"
+    }
+}
