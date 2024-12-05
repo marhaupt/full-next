@@ -1,5 +1,5 @@
 import { UnderConstruction } from '@/components/UnderConstruction';
 
-export default function SignUp() {
+export default function Login() {
     return <UnderConstruction />;
 }

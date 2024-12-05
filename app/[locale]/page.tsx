@@ -26,7 +26,7 @@ export default function Home() {
                         {t('home.hero.subtitle')}
                     </p>
                     <Button asChild className="mt-8 bg-background text-primary hover:bg-slate-400">
-                        <Link href="/movies">{t('home.hero.cta')}</Link>
+                        <Link href="/private/movies">{t('home.hero.cta')}</Link>
                     </Button>
                 </div>
             </section>
@@ -41,7 +41,7 @@ export default function Home() {
                             {t('home.cta.subtitle')}
                         </p>
                         <Button asChild>
-                            <Link href="/signup">{t('home.cta.button')}</Link>
+                            <Link href="/login">{t('home.cta.button')}</Link>
                         </Button>
                     </div>
                 </div>
